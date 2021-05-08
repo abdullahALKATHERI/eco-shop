@@ -2,6 +2,7 @@
     <section id="form" style="margin-top: 5px;"><!--form-->
         <div class="container" >
             <div class="row" style="text-align: center">
+               <span style="font-size: 24px;color:red;"> <?php check_message() ?> </span>
                 <div class="col-sm-4" style="float: none; display: inline-block">
                     <div class="signup-form"><!--sign up form-->
                         <h2>New User Signup!</h2>
